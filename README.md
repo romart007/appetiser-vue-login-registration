@@ -16,8 +16,8 @@ serve: yarn serve OR npm run serve
 ```
 Vue js 
 
-Demo Link : appetiser-vue-login-registration.netlify.app
-
+Demo Link : https://appetiser-vue-login-registration.netlify.app/
+*** Link may not work all the as its just for demo | You may clone or set it up locally 
 ```
 
 
